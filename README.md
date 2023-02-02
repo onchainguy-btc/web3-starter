@@ -1,16 +1,31 @@
-This is a [wagmi](https://wagmi.sh) + [RainbowKit](https://rainbowkit.com) + [Vite](https://vitejs.dev/) project bootstrapped with [`create-wagmi`](https://github.com/wagmi-dev/wagmi/tree/main/packages/create-wagmi)
+# web3-starter
 
-# Getting Started
+💖 power by vite + react + wagmi + rainbow + ts + tailwind
 
-Run `npm run dev` in your terminal, and then open [localhost:5173](http://localhost:5173) in your browser.
+If you want to start a web3 project, this is a good template to use.
 
-Once the webpage has loaded, changes made to files inside the `src/` directory (e.g. `src/App.tsx`) will automatically update the webpage.
+## Getting Started
 
-# Learn more
+Click on "Use this template".
 
-To learn more about [Vite](https://vitejs.dev/), [RainbowKit](https://rainbowkit.com) or [wagmi](https://wagmi.sh), check out the following resources:
+## Development
 
-- [wagmi Documentation](https://wagmi.sh) – learn about wagmi Hooks and API.
-- [wagmi Examples](https://wagmi.sh/examples/connect-wallet) – a suite of simple examples using wagmi.
-- [RainbowKit Documentation](https://rainbowkit.com/docs/introduction) – learn more about RainbowKit (configuration, theming, advanced usage, etc).
-- [Vite Documentation](https://vitejs.dev/) – learn about Vite features and API.
+Install
+
+```
+pnpm i
+```
+
+Develop
+
+```
+pnpm run dev
+```
+
+## Setup
+
+- 😏 [React](https://reactjs.org/) for components
+- 😏 [React Router](https://reactrouter.com/en/main) for navigation
+- 😏 [Vite](https://vitejs.dev/) for dev tooling and build process
+- 😏 [wagmi](https://wagmi.sh/) + [RainbowKit](https://www.rainbowkit.com/) for web3
+- 😏 [tailwindcss](https://tailwindcss.com/) + [daisyUI](https://daisyui.com/) for styling
