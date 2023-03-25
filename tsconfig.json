@@ -14,8 +14,7 @@
     "skipLibCheck": true,
     "strict": true,
     "target": "ESNext",
-    "useDefineForClassFields": true,
-    "types": ["unplugin-icons/types/react"]
+    "useDefineForClassFields": true
   },
   "include": ["./src"]
 }
